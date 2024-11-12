@@ -179,36 +179,6 @@
             "glucoseLevel": 193,
             "riskStatus": "high",
             "timestamp": "2024-08-28T01:29:25Z"
-        },
-        {
-            "id": "3904563262",
-            "glucoseLevel": 118,
-            "riskStatus": "normal",
-            "timestamp": "2024-07-29T07:06:27Z"
-        },
-        {
-            "id": "0406303940",
-            "glucoseLevel": 194,
-            "riskStatus": "high",
-            "timestamp": "2024-08-22T02:30:59Z"
-        },
-        {
-            "id": "9088612285",
-            "glucoseLevel": 137,
-            "riskStatus": "borderline",
-            "timestamp": "2024-08-12T02:57:06Z"
-        },
-        {
-            "id": "8378768473",
-            "glucoseLevel": 124,
-            "riskStatus": "borderline",
-            "timestamp": "2024-10-02T04:29:37Z"
-        },
-        {
-            "id": "3968579569",
-            "glucoseLevel": 176,
-            "riskStatus": "borderline",
-            "timestamp": "2024-02-13T17:17:32Z"
         }
     ],
     "users": [
@@ -391,36 +361,6 @@
             "id": "3176683383",
             "age": 34,
             "healthStatus": "Type 2 Diabetes"
-        },
-        {
-            "name": "Gertrud Piet",
-            "id": "3904563262",
-            "age": 42,
-            "healthStatus": "PreDiabetes"
-        },
-        {
-            "name": "Alonzo Doucette",
-            "id": "0406303940",
-            "age": 46,
-            "healthStatus": "PreDiabetes"
-        },
-        {
-            "name": "Eadie Winterflood",
-            "id": "9088612285",
-            "age": 48,
-            "healthStatus": "Type 2 Diabetes"
-        },
-        {
-            "name": "Merill Claibourn",
-            "id": "8378768473",
-            "age": 54,
-            "healthStatus": "Type 2 Diabetes"
-        },
-        {
-            "name": "Janaye Schnitter",
-            "id": "3968579569",
-            "age": 57,
-            "healthStatus": "Type 1 Diabetes"
         }
     ]
 }
