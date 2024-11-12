@@ -1,0 +1,426 @@
+{
+    "glucoseData": [
+        {
+            "id": "3398094422",
+            "glucoseLevel": 69,
+            "riskStatus": "low",
+            "timestamp": "2024-05-15T01:01:44Z"
+        },
+        {
+            "id": "9425975892",
+            "glucoseLevel": 152,
+            "riskStatus": "borderline",
+            "timestamp": "2024-03-22T01:37:43Z"
+        },
+        {
+            "id": "2614956228",
+            "glucoseLevel": 51,
+            "riskStatus": "low",
+            "timestamp": "2024-08-06T18:28:42Z"
+        },
+        {
+            "id": "7551437908",
+            "glucoseLevel": 96,
+            "riskStatus": "normal",
+            "timestamp": "2024-04-25T05:10:46Z"
+        },
+        {
+            "id": "3346906981",
+            "glucoseLevel": 134,
+            "riskStatus": "borderline",
+            "timestamp": "2024-08-10T21:16:00Z"
+        },
+        {
+            "id": "9436633483",
+            "glucoseLevel": 193,
+            "riskStatus": "high",
+            "timestamp": "2024-01-29T10:44:03Z"
+        },
+        {
+            "id": "9436987692",
+            "glucoseLevel": 100,
+            "riskStatus": "normal",
+            "timestamp": "2024-05-27T08:41:55Z"
+        },
+        {
+            "id": "1182311814",
+            "glucoseLevel": 93,
+            "riskStatus": "normal",
+            "timestamp": "2024-10-14T16:01:49Z"
+        },
+        {
+            "id": "6952808124",
+            "glucoseLevel": 112,
+            "riskStatus": "normal",
+            "timestamp": "2024-05-29T07:47:36Z"
+        },
+        {
+            "id": "7475038319",
+            "glucoseLevel": 199,
+            "riskStatus": "high",
+            "timestamp": "2024-10-17T05:43:19Z"
+        },
+        {
+            "id": "1342508424",
+            "glucoseLevel": 198,
+            "riskStatus": "high",
+            "timestamp": "2024-08-31T08:21:37Z"
+        },
+        {
+            "id": "9468628493",
+            "glucoseLevel": 167,
+            "riskStatus": "borderline",
+            "timestamp": "2024-01-19T17:30:55Z"
+        },
+        {
+            "id": "0733049869",
+            "glucoseLevel": 195,
+            "riskStatus": "high",
+            "timestamp": "2024-05-11T00:17:33Z"
+        },
+        {
+            "id": "9447728499",
+            "glucoseLevel": 98,
+            "riskStatus": "normal",
+            "timestamp": "2024-07-27T06:18:32Z"
+        },
+        {
+            "id": "5167894611",
+            "glucoseLevel": 117,
+            "riskStatus": "normal",
+            "timestamp": "2024-03-13T07:30:33Z"
+        },
+        {
+            "id": "1010469738",
+            "glucoseLevel": 137,
+            "riskStatus": "borderline",
+            "timestamp": "2024-03-09T05:08:00Z"
+        },
+        {
+            "id": "3263283413",
+            "glucoseLevel": 137,
+            "riskStatus": "borderline",
+            "timestamp": "2024-05-15T00:06:24Z"
+        },
+        {
+            "id": "9825947454",
+            "glucoseLevel": 199,
+            "riskStatus": "high",
+            "timestamp": "2024-03-16T01:02:53Z"
+        },
+        {
+            "id": "9909466597",
+            "glucoseLevel": 120,
+            "riskStatus": "borderline",
+            "timestamp": "2024-04-23T23:41:30Z"
+        },
+        {
+            "id": "0897424972",
+            "glucoseLevel": 128,
+            "riskStatus": "borderline",
+            "timestamp": "2024-05-19T05:40:24Z"
+        },
+        {
+            "id": "3574937652",
+            "glucoseLevel": 105,
+            "riskStatus": "normal",
+            "timestamp": "2024-03-16T04:53:29Z"
+        },
+        {
+            "id": "6962487363",
+            "glucoseLevel": 97,
+            "riskStatus": "normal",
+            "timestamp": "2024-01-16T04:03:58Z"
+        },
+        {
+            "id": "9245197611",
+            "glucoseLevel": 160,
+            "riskStatus": "borderline",
+            "timestamp": "2024-06-15T22:48:22Z"
+        },
+        {
+            "id": "6802272113",
+            "glucoseLevel": 121,
+            "riskStatus": "borderline",
+            "timestamp": "2024-08-27T06:56:55Z"
+        },
+        {
+            "id": "3013811579",
+            "glucoseLevel": 132,
+            "riskStatus": "borderline",
+            "timestamp": "2024-02-20T11:34:41Z"
+        },
+        {
+            "id": "2628908735",
+            "glucoseLevel": 84,
+            "riskStatus": "normal",
+            "timestamp": "2024-01-29T15:59:53Z"
+        },
+        {
+            "id": "9162203495",
+            "glucoseLevel": 103,
+            "riskStatus": "normal",
+            "timestamp": "2024-05-25T08:53:52Z"
+        },
+        {
+            "id": "3128466262",
+            "glucoseLevel": 98,
+            "riskStatus": "normal",
+            "timestamp": "2024-09-02T13:30:37Z"
+        },
+        {
+            "id": "9803131494",
+            "glucoseLevel": 92,
+            "riskStatus": "normal",
+            "timestamp": "2024-06-27T12:04:15Z"
+        },
+        {
+            "id": "3176683383",
+            "glucoseLevel": 193,
+            "riskStatus": "high",
+            "timestamp": "2024-08-28T01:29:25Z"
+        },
+        {
+            "id": "3904563262",
+            "glucoseLevel": 118,
+            "riskStatus": "normal",
+            "timestamp": "2024-07-29T07:06:27Z"
+        },
+        {
+            "id": "0406303940",
+            "glucoseLevel": 194,
+            "riskStatus": "high",
+            "timestamp": "2024-08-22T02:30:59Z"
+        },
+        {
+            "id": "9088612285",
+            "glucoseLevel": 137,
+            "riskStatus": "borderline",
+            "timestamp": "2024-08-12T02:57:06Z"
+        },
+        {
+            "id": "8378768473",
+            "glucoseLevel": 124,
+            "riskStatus": "borderline",
+            "timestamp": "2024-10-02T04:29:37Z"
+        },
+        {
+            "id": "3968579569",
+            "glucoseLevel": 176,
+            "riskStatus": "borderline",
+            "timestamp": "2024-02-13T17:17:32Z"
+        }
+    ],
+    "users": [
+        {
+            "name": "Shani Matczak",
+            "id": "3398094422",
+            "age": 29,
+            "healthStatus": "PreDiabetes"
+        },
+        {
+            "name": "Kipp Appleton",
+            "id": "9425975892",
+            "age": 29,
+            "healthStatus": "Type 1 Diabetes"
+        },
+        {
+            "name": "Stefano Parradice",
+            "id": "2614956228",
+            "age": 54,
+            "healthStatus": "Type 2 Diabetes"
+        },
+        {
+            "name": "Rubi Comiam",
+            "id": "7551437908",
+            "age": 53,
+            "healthStatus": "PreDiabetes"
+        },
+        {
+            "name": "Aaron Hegg",
+            "id": "3346906981",
+            "age": 26,
+            "healthStatus": "PreDiabetes"
+        },
+        {
+            "name": "Dorolice Mariault",
+            "id": "9436633483",
+            "age": 50,
+            "healthStatus": "Type 1 Diabetes"
+        },
+        {
+            "name": "Putnem Short",
+            "id": "9436987692",
+            "age": 25,
+            "healthStatus": "Type 1 Diabetes"
+        },
+        {
+            "name": "Isadore Matuszinski",
+            "id": "1182311814",
+            "age": 62,
+            "healthStatus": "Type 1 Diabetes"
+        },
+        {
+            "name": "Audry Vischi",
+            "id": "6952808124",
+            "age": 34,
+            "healthStatus": "PreDiabetes"
+        },
+        {
+            "name": "Abran Abeles",
+            "id": "7475038319",
+            "age": 37,
+            "healthStatus": "PreDiabetes"
+        },
+        {
+            "name": "Crawford Lanfer",
+            "id": "1342508424",
+            "age": 46,
+            "healthStatus": "Type 2 Diabetes"
+        },
+        {
+            "name": "Romonda Casari",
+            "id": "9468628493",
+            "age": 47,
+            "healthStatus": "Type 2 Diabetes"
+        },
+        {
+            "name": "Ezri Dunbar",
+            "id": "0733049869",
+            "age": 35,
+            "healthStatus": "Type 2 Diabetes"
+        },
+        {
+            "name": "Milly Brereton",
+            "id": "9447728499",
+            "age": 44,
+            "healthStatus": "Type 2 Diabetes"
+        },
+        {
+            "name": "Byrom Ainley",
+            "id": "5167894611",
+            "age": 29,
+            "healthStatus": "Type 2 Diabetes"
+        },
+        {
+            "name": "Lila Daspar",
+            "id": "1010469738",
+            "age": 47,
+            "healthStatus": "PreDiabetes"
+        },
+        {
+            "name": "Rhodie Austen",
+            "id": "3263283413",
+            "age": 61,
+            "healthStatus": "Type 2 Diabetes"
+        },
+        {
+            "name": "Marne Mardall",
+            "id": "9825947454",
+            "age": 52,
+            "healthStatus": "Type 2 Diabetes"
+        },
+        {
+            "name": "Libbi Venart",
+            "id": "9909466597",
+            "age": 55,
+            "healthStatus": "Type 2 Diabetes"
+        },
+        {
+            "name": "Vale Farrall",
+            "id": "0897424972",
+            "age": 43,
+            "healthStatus": "Type 1 Diabetes"
+        },
+        {
+            "name": "Dido Lyles",
+            "id": "3574937652",
+            "age": 35,
+            "healthStatus": "PreDiabetes"
+        },
+        {
+            "name": "Kittie Feldmark",
+            "id": "6962487363",
+            "age": 51,
+            "healthStatus": "Type 1 Diabetes"
+        },
+        {
+            "name": "Ewart Voller",
+            "id": "9245197611",
+            "age": 32,
+            "healthStatus": "Type 1 Diabetes"
+        },
+        {
+            "name": "Arther Jenik",
+            "id": "6802272113",
+            "age": 24,
+            "healthStatus": "Type 1 Diabetes"
+        },
+        {
+            "name": "Anneliese Wagerfield",
+            "id": "3013811579",
+            "age": 64,
+            "healthStatus": "Type 2 Diabetes"
+        },
+        {
+            "name": "Donn Trusdale",
+            "id": "2628908735",
+            "age": 40,
+            "healthStatus": "Type 2 Diabetes"
+        },
+        {
+            "name": "Fawnia Strettell",
+            "id": "9162203495",
+            "age": 42,
+            "healthStatus": "Type 1 Diabetes"
+        },
+        {
+            "name": "Tann Matuszyk",
+            "id": "3128466262",
+            "age": 26,
+            "healthStatus": "Type 1 Diabetes"
+        },
+        {
+            "name": "Deva Dodshon",
+            "id": "9803131494",
+            "age": 25,
+            "healthStatus": "Type 2 Diabetes"
+        },
+        {
+            "name": "Cherye Bricket",
+            "id": "3176683383",
+            "age": 34,
+            "healthStatus": "Type 2 Diabetes"
+        },
+        {
+            "name": "Gertrud Piet",
+            "id": "3904563262",
+            "age": 42,
+            "healthStatus": "PreDiabetes"
+        },
+        {
+            "name": "Alonzo Doucette",
+            "id": "0406303940",
+            "age": 46,
+            "healthStatus": "PreDiabetes"
+        },
+        {
+            "name": "Eadie Winterflood",
+            "id": "9088612285",
+            "age": 48,
+            "healthStatus": "Type 2 Diabetes"
+        },
+        {
+            "name": "Merill Claibourn",
+            "id": "8378768473",
+            "age": 54,
+            "healthStatus": "Type 2 Diabetes"
+        },
+        {
+            "name": "Janaye Schnitter",
+            "id": "3968579569",
+            "age": 57,
+            "healthStatus": "Type 1 Diabetes"
+        }
+    ]
+}
