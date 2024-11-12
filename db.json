@@ -119,36 +119,6 @@
             "glucoseLevel": 128,
             "riskStatus": "borderline",
             "timestamp": "2024-05-19T05:40:24Z"
-        },
-        {
-            "id": "3574937652",
-            "glucoseLevel": 105,
-            "riskStatus": "normal",
-            "timestamp": "2024-03-16T04:53:29Z"
-        },
-        {
-            "id": "6962487363",
-            "glucoseLevel": 97,
-            "riskStatus": "normal",
-            "timestamp": "2024-01-16T04:03:58Z"
-        },
-        {
-            "id": "9245197611",
-            "glucoseLevel": 160,
-            "riskStatus": "borderline",
-            "timestamp": "2024-06-15T22:48:22Z"
-        },
-        {
-            "id": "6802272113",
-            "glucoseLevel": 121,
-            "riskStatus": "borderline",
-            "timestamp": "2024-08-27T06:56:55Z"
-        },
-        {
-            "id": "3013811579",
-            "glucoseLevel": 132,
-            "riskStatus": "borderline",
-            "timestamp": "2024-02-20T11:34:41Z"
         }
     ],
     "users": [
@@ -271,36 +241,7 @@
             "id": "0897424972",
             "age": 43,
             "healthStatus": "Type 1 Diabetes"
-        },
-        {
-            "name": "Dido Lyles",
-            "id": "3574937652",
-            "age": 35,
-            "healthStatus": "PreDiabetes"
-        },
-        {
-            "name": "Kittie Feldmark",
-            "id": "6962487363",
-            "age": 51,
-            "healthStatus": "Type 1 Diabetes"
-        },
-        {
-            "name": "Ewart Voller",
-            "id": "9245197611",
-            "age": 32,
-            "healthStatus": "Type 1 Diabetes"
-        },
-        {
-            "name": "Arther Jenik",
-            "id": "6802272113",
-            "age": 24,
-            "healthStatus": "Type 1 Diabetes"
-        },
-        {
-            "name": "Anneliese Wagerfield",
-            "id": "3013811579",
-            "age": 64,
-            "healthStatus": "Type 2 Diabetes"
         }
+
     ]
 }
