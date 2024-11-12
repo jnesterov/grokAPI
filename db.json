@@ -149,36 +149,6 @@
             "glucoseLevel": 132,
             "riskStatus": "borderline",
             "timestamp": "2024-02-20T11:34:41Z"
-        },
-        {
-            "id": "2628908735",
-            "glucoseLevel": 84,
-            "riskStatus": "normal",
-            "timestamp": "2024-01-29T15:59:53Z"
-        },
-        {
-            "id": "9162203495",
-            "glucoseLevel": 103,
-            "riskStatus": "normal",
-            "timestamp": "2024-05-25T08:53:52Z"
-        },
-        {
-            "id": "3128466262",
-            "glucoseLevel": 98,
-            "riskStatus": "normal",
-            "timestamp": "2024-09-02T13:30:37Z"
-        },
-        {
-            "id": "9803131494",
-            "glucoseLevel": 92,
-            "riskStatus": "normal",
-            "timestamp": "2024-06-27T12:04:15Z"
-        },
-        {
-            "id": "3176683383",
-            "glucoseLevel": 193,
-            "riskStatus": "high",
-            "timestamp": "2024-08-28T01:29:25Z"
         }
     ],
     "users": [
@@ -330,36 +300,6 @@
             "name": "Anneliese Wagerfield",
             "id": "3013811579",
             "age": 64,
-            "healthStatus": "Type 2 Diabetes"
-        },
-        {
-            "name": "Donn Trusdale",
-            "id": "2628908735",
-            "age": 40,
-            "healthStatus": "Type 2 Diabetes"
-        },
-        {
-            "name": "Fawnia Strettell",
-            "id": "9162203495",
-            "age": 42,
-            "healthStatus": "Type 1 Diabetes"
-        },
-        {
-            "name": "Tann Matuszyk",
-            "id": "3128466262",
-            "age": 26,
-            "healthStatus": "Type 1 Diabetes"
-        },
-        {
-            "name": "Deva Dodshon",
-            "id": "9803131494",
-            "age": 25,
-            "healthStatus": "Type 2 Diabetes"
-        },
-        {
-            "name": "Cherye Bricket",
-            "id": "3176683383",
-            "age": 34,
             "healthStatus": "Type 2 Diabetes"
         }
     ]
